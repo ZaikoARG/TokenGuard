@@ -1,0 +1,6 @@
+mem_edit==0.6
+Pillow==8.4.0
+psutil==5.8.0
+PySide6==6.2.2.1
+pystray==0.18.0
+requests==2.21.0
